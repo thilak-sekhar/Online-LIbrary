@@ -10,7 +10,10 @@ Welcome to the Online Library, a web-based platform where users can read books o
 🔍 Search – Find books quickly by title, author, or keyword.         
 🌐 Browse – Discover new and trending books effortlessly.       
 # Technologies Used
-✅ HTML, CSS – Responsive and user-friendly design.      
-✅ JavaScript – Interactive features and smooth navigation.        
+✅ HTML, CSS – Responsive and user-friendly design. 
+
+✅ JavaScript – Interactive features and smooth navigation. 
+
 ✅ Database Integration – Store and manage books efficiently.
+
 📬 Contributions & feedback are welcome! 🚀
